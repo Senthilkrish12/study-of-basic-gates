@@ -1,4 +1,8 @@
-### study-of-basic-gates
+### PROGRAM DEVELOPED BY: Senthil Raj G
+
+### REGISTER NUMBER: 212224100054
+
+# Exp 1: study-of-basic-gates
 
 *AIM:* 
 
@@ -61,9 +65,6 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-PROGRAM DEVELOPED BY: Senthil Raj G
-
-REGISTER NUMBER: 212224100054
 
 *PROGRAM*
 ```
