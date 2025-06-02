@@ -2,7 +2,7 @@
 
 ### REGISTER NUMBER: 212224100054
 
-# Exp 1: study-of-basic-gates
+# Exp 1: study of basic gates
 
 *AIM:* 
 
